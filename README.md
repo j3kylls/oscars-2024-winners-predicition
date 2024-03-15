@@ -9,7 +9,6 @@ Welcome to the Oscars 2024 Winners Prediction project repository! In this projec
 - [Introduction](#introduction)
 - [Methodology](#methodology)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -37,15 +36,6 @@ To set up the environment for running this project, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-
-## Usage
-1. **Data Preparation**: Ensure that you have the necessary datasets for past Oscars, SAG, and Golden Globes ceremonies.
-2. **Data Preprocessing**: Preprocess the datasets to clean and organize the data properly.
-3. **Run the Prediction Script**: Execute the Python script for similarity analysis and prediction:
-   ```bash
-   python predict_winners.py
-   ```
-4. **View Results**: The script will output the predicted winners for each Oscars category based on the calculated similarities.
 
 ## Contributing
 Contributions to this project are welcomed and appreciated. If you have any suggestions, feature requests, or bug reports, please feel free to open an issue or submit a pull request.
